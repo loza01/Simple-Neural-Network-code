@@ -18,4 +18,4 @@ In the code when you insert 1 and 0, If you replace the “true”s by 1 and the
 On the other hand, if we check the case of the “exclusive or” (in which the case “true or true” (the point (1,1)) is false), then we can see that a simple line cannot separate the two groups, and a Perceptron isn’t able to deal with this problem.
 So, the Perceptron is indeed not a very efficient neural network, but it is simple to create and may still be useful as a classifier.
 
-Tank you!
+Thank you!
